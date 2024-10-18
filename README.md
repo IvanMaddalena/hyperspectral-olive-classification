@@ -15,7 +15,7 @@ This project involves the classification of olive trees and the analysis of vege
 Olive trees (*Olea europaea L.*) are iconic in Mediterranean regions, especially in Puglia, Italy, where olive oil production is a significant agricultural activity. However, recent threats such as the spread of the *Xylella fastidiosa* bacterium have jeopardized the health of olive trees. 
 
 <p align="center">
-  <img src="Ulivi_pugliesi.PNG" alt="Apulian Olive trees" height="200">
+  <img src="images/Ulivi_pugliesi.PNG" alt="Apulian Olive trees" height="200">
 </p>
 
 This project leverages hyperspectral imaging technology to detect the health of olive trees. Hyperspectral images provide a detailed spectral signature for each pixel, revealing chemical composition and enabling precise analysis.
@@ -43,8 +43,8 @@ The following vegetation indices were calculated to monitor the health and growt
 - **NDVI (Normalized Difference Vegetation Index)**: Measures plant health based on near-infrared and red light reflectance.
 
 <p align="center">
-  <img src="NDVI_Index_Image.PNG" alt="NDVI Index Image" height="200">
-  <img src="Zoomed_NDVI_Index_Image.PNG" alt="Zoomed NDVI Index Image" height="200">
+  <img src="images/NDVI_Index_Image.PNG" alt="NDVI Index Image" height="200">
+  <img src="images/Zoomed_NDVI_Index_Image.PNG" alt="Zoomed NDVI Index Image" height="200">
 </p>
 
 - **SAVI (Soil Adjusted Vegetation Index)**: Reduces soil brightness influence, improving vegetation detection.
@@ -56,8 +56,8 @@ The following vegetation indices were calculated to monitor the health and growt
    - SVM and SAM produced comparable results, with some variability in sensitivity to different spectral signatures.
 
 <p align="center">
-  <img src="SVM_Classification_Image.PNG" alt="SVM Classification" height="200">
-  <img src="Classified_Image_with_Olives_Highlighted_in_White.PNG" alt="SAM Classification" height="200">
+  <img src="images/SVM_Classification_Image.PNG" alt="SVM Classification" height="200">
+  <img src="images/Classified_Image_with_Olives_Highlighted_in_White.PNG" alt="SAM Classification" height="200">
 </p>
 
 - **Vegetation Health**:
